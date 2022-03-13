@@ -1,0 +1,35 @@
+@media (max-width: 800px){
+	.content-header{
+		display: none;
+	}
+
+	.content{
+		padding: 0px !important;
+	}
+
+	.content .container-fluid{
+		padding: 0px !important;
+	}
+
+	.main-footer{
+		display: none;
+	}
+}
+
+.dark-mode .direct-chat-warning .right>.direct-chat-text{
+	background-color: #3e5368 !important;
+	color: #f8f9fa!important;
+	border-color: #584f41 !important;
+}
+
+.dark-mode .direct-chat-warning .right>.direct-chat-text hr{
+	background: #cdc7c7;
+	margin-top: 6px!important;
+	margin-bottom: 2px!important;
+}
+
+.dark-mode .direct-chat-text hr{
+	background: #cdc7c7;
+	margin-top: 6px!important;
+	margin-bottom: 2px!important;
+}
